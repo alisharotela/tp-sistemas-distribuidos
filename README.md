@@ -5,4 +5,4 @@ Desarrollo de un sistema distribuido utilizando los protocolos UDP y TCP.
     - Alisha Rotela
     - Araceli Valenzuela
     - Jennifer Staple
-    - Nataly Prieto
+    - Nathaly Prieto
