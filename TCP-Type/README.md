@@ -13,6 +13,8 @@ En Eclipse: click derecho sobre el archivo TCPMultiServer.java y seleccionar run
 ### Servidor en escucha con el puerto 4444
 
 ![1](https://user-images.githubusercontent.com/110002875/193476820-6dfc2a14-22ba-495e-a361-3afb48d1487e.jpeg)
+![6](https://user-images.githubusercontent.com/110002875/193482261-c23b43cc-ea10-4545-b8bb-a4328cc92847.jpeg)
+
 
 # 2.Para Cliente 
 ## Para Ejecutar 
